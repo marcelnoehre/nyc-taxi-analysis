@@ -26,12 +26,13 @@ manhatten = [4,12,13,24,41,42,43,45,48,50,68,74,75,79,87,88,90,100,103,104,105,1
 queens = [2,7,8,9,10,15,16,19,27,28,30,38,53,56,57,64,70,73,82,83,86,92,93,95,96,98,101,102,117,121,
             122,124,129,130,131,132,134,135,138,139,145,146,157,160,171,173,175,179,179,180,191,192,
           193,196,198,201,203,205,207,215,216,218,219,223,226,252,253,258,260]
-statenIsland = [5,6,23,44,84,99,109,110,115,118,156,172,176,187,204,206,212,214,245,251]
-districts = [bronx, brooklyn, manhatten, queens, statenIsland]
+staten_island = [5,6,23,44,84,99,109,110,115,118,156,172,176,187,204,206,212,214,245,251]
+districts = [bronx, brooklyn, manhatten, queens, staten_island]
 airports = [132, 138]
-monthLabels = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OKTOBER','NOVEMBER','DECEMBER']
-districtLabels = ['BRONX', 'BROOKLYN', 'MANHATTEN', 'QUEENS', 'STATEN ISLAND']
-tipLabels = ['AVERAGE', 'LOWER', 'UPPER']
-airportLabels = ['JFK AIRPORT', 'LA GUARDIA AIRPORT']
-districtColors = ['darkgray', 'lightskyblue', 'tomato', 'gold', 'plum']
-airportColors = ['gold', 'tomato']
+month_labels = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER',
+                'OKTOBER','NOVEMBER','DECEMBER']
+district_labels = ['BRONX', 'BROOKLYN', 'MANHATTEN', 'QUEENS', 'STATEN ISLAND']
+tip_labels = ['AVERAGE', 'LOWER', 'UPPER']
+airport_labels = ['JFK AIRPORT', 'LA GUARDIA AIRPORT']
+district_colors = ['darkgray', 'lightskyblue', 'tomato', 'gold', 'plum']
+airport_colors = ['gold', 'tomato']

@@ -34,5 +34,7 @@ month_labels = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST
 district_labels = ['BRONX', 'BROOKLYN', 'MANHATTEN', 'QUEENS', 'STATEN ISLAND']
 tip_labels = ['AVERAGE', 'LOWER', 'UPPER']
 airport_labels = ['JFK AIRPORT', 'LA GUARDIA AIRPORT']
+airport_directions = ['FROM AIRPORTS', 'TO AIRPORTS']
 district_colors = ['darkgray', 'lightskyblue', 'tomato', 'gold', 'plum']
 airport_colors = ['gold', 'tomato']
+direction = ['FROM', 'TO']
